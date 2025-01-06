@@ -1,6 +1,9 @@
 # This is a slot machine made with Python
 
+# Global Constants
 MAX_LINES = 3
+MAX_BET = 100
+MIN_BET = 1
 
 
 def deposit():
